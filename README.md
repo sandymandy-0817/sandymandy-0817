@@ -43,3 +43,8 @@
 //링크
 Link1 : [닷홈](http://ksk3570.dothome.co.kr, '닷홈으로 바로가기')
 Link2 : <a href="http://ksk3570.dothome.co.kr" target="_blank" title="닷홈 바로가기">닷홈</a>
+Link3 : <ksk3570@gmail.com>
+Link4 : <http://naver.com>
+
+//이모티콘, 이모지
+<https://gist.github.com/rxaviers/7360908>
