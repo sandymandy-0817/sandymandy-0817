@@ -48,3 +48,24 @@ Link4 : <http://naver.com>
 
 //이모티콘, 이모지
 <https://gist.github.com/rxaviers/7360908>
+
+//이미지 삽입
+![액박시 보여질 이미지명](이미지 주소)(이미지명)
+![top logo](https://harimpetfood.com/SkinIng/top_logo.gif)<br>
+<img src="https://harimpetfood.com/SkinIng/top_logo.gif">
+
+//테이블 삽입
+Title1|Titile2
+-|-
+content1|content2
+content3|content4
+
+<table>
+  <thead>
+    <tr><th>셀제목1</th><th>셀제목2</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>셀내용1</td><td>셀내용2</td></tr>
+    <tr><td>셀내용3</td><td>셀내용4</td></tr>
+  </tbody>
+</table>
