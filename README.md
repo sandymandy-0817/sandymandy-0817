@@ -2,9 +2,9 @@
 
 //벳지 달기
 <a href="https://shields.io/">
-<img src="https://img.shields.io/badge/HTML5-dark_orange">
+<img src="https://img.shields.io/badge/HTML5-orange">
 <img src="https://img.shields.io/badge/CSS3-blue">
-<img src="https://img.shields.io/badge/Javascript-orange">
+<img src="https://img.shields.io/badge/Javascript-green">
 
 //제목 
 # 제목1
